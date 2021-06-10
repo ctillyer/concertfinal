@@ -45,6 +45,7 @@ session_start();
                         <li class="menu-item"><a href="index.php">Home</a></li>
                         <li class="menu-item"><a href="about-us.php">About us</a></li>
                         <li class="menu-item"><a href="contact.php">Contact us</a></li>
+                        <li class="menu-item"><a href="logout.php">Logout</a></li>
 
                         </li>
                     </ul>
